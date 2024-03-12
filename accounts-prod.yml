@@ -2,9 +2,9 @@ build:
   version: "1.0.1"
 
 accounts:
-  message: "Welcome to FearBank accounts related prod APIs"
+  message: "Welcome to FearBank accounts related production support APIs"
   contactDetails:
-    name: "Reine Mukkish - Product Owner"
+    name: "Reine Mukkish - Product Owner and developer"
     email: "{cipher}17c4f8e573c078f7c2bf7ae0057970643c2aa9cf3bdcf5ea5ea4f175a30abfb3a0f22937dd2f6ff14029ff7ae0cd27e7"
   onCallSupport:
     - (453) 392-4829
